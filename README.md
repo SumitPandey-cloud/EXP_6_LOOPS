@@ -12,7 +12,7 @@ In this experiment we learn about 3 decsion making statement loops which are as 
 
 ### 1. for() loop
 
-A for loop is a statement that executes a part of code repeatedly for a specific number of iterations. It continues to run the code until a predefined condition is met.
+A for loop is a statement that executes a part of code repeatedly for a specific number of iterations. It continues to run the code until a predefined condition is met. 
 
 
 ### 2. while() loop
